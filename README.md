@@ -5,43 +5,4 @@ The goal of this project is to replicate the structure, layout, and user experie
 
 The application is fully responsive and works smoothly across desktop, tablet, and mobile devices.
 
-FILE STRCTURE
-project-root/
-│
-├── dist/
-│   ├── assets/
-│   │   ├── index-Dtwy-Muy.css
-│   │   └── index-DYBhb70T.js
-│   ├── index.html
-│   └── vite.svg
-│
-├── node_modules/
-├── public/
-│
-├── src/
-│   ├── assets/
-│   │
-│   ├── components/
-│   │   ├── EmptyState.tsx
-│   │   ├── FilterBar.tsx
-│   │   ├── HeroBanner.tsx
-│   │   ├── RestaurantCard.tsx
-│   │   └── TopBar.tsx
-│   │
-│   ├── data/
-│   │
-│   ├── types/
-│   │   └── restaurant.ts
-│   │
-│   ├── utils/
-│   │   └── restaurantFilters.ts
-│   │
-│   ├── App.css
-│   ├── App.tsx
-│   ├── index.css
-│   └── main.tsx
-│
-└── .gitignore
-
-
 
