@@ -42,3 +42,6 @@ project-root/
 │   └── main.tsx
 │
 └── .gitignore
+
+
+
